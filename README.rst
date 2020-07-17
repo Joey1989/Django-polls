@@ -7,6 +7,18 @@ visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the "docs" directory.
 
+<img width="964" alt="screenshot" src="https://github.com/Joey1989/Django-polls/blob/master/polls/static/polls/images/README/README3.png"/>
+
+<hr />
+
+<img width="964" alt="screenshot" src="https://github.com/Joey1989/Django-polls/blob/master/polls/static/polls/images/README/README2.png"/>
+
+<hr />
+
+<img width="964" alt="screenshot" src="https://github.com/Joey1989/Django-polls/blob/master/polls/static/polls/images/README/README1.png"/>
+
+<hr />
+
 Quick start
 -----------
 
